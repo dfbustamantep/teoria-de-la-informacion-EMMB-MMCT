@@ -7,7 +7,7 @@ class DatosIniciales:
         self.incidentes=incidentes;
         
     def procesar_datos(self):
-        ''' vairables donde vamos a asignarle prioridad a los peatones o a los vehiculos
+        ''' variables donde vamos a asignarle prioridad a los peatones o a los vehiculos
             esto de acuerdo al estado de las diferentes vairables y con esto determinar la estrategia
             a seguir
         '''
